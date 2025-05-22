@@ -22,3 +22,6 @@ var/
 wheels/
 pip-wheel-m
 .venv
+
+.env
+*.db
